@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # thaliajuarez.github.io
-=======
->>>>>>> 9b53b273cc66eef66610f85b7cb6ebaeda319d86
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/thaliajuarez/thaliajuarez.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
