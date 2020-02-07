@@ -609,7 +609,6 @@
                     
                     <span class="title">Text</span>
                     
-                    <span class="post-date"> - Feb 6, 2020</span>
                     <div class="title-bar-buttons"></div>
                 </div>
             </div>
@@ -622,62 +621,43 @@
                 <div class="title-bar">
                     <div class="icon"></div>
                     
+                    <span class="title">Post</span>
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    <span class="title">Audio</span>
-                    
-                    <span class="post-date"> - Jan 30, 2020</span>
                     <div class="title-bar-buttons"></div>
                 </div>
                 
                 <div class="menu-bar">
                     <ul class="menu-items">
-                        <a href="https://www.tumblr.com/reblog/190561299031/eqyny5BC"><li><span class="first-letter">R</span>eblog</li></a><a href="https://ithacuh.tumblr.com/post/190561299031/via"><li><span class="first-letter">P</span>ermalink</li></a><a target="_blank" href="https://t.umblr.com/redirect?z=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6wYaM4fje1JPp2WTjpaQEc%3Fsi%3DUqsZqYHeSfOtSqDnDid74w&amp;t=ZmNlNDgxZDc1NzliNjI0ZDQwNDA0YTY0YjczNmQ4ZTMwYTZlZmRjNywxOTA1NjEyOTkwMzE%3D&amp;b=t%3A9sKj-4Vu5loclqaVz7bvaA&amp;p=https%3A%2F%2Fithacuh.tumblr.com%2Fpost%2F190561299031%2Fvia&amp;m=0"><li><span class="first-letter">S</span>ource</li></a>
+                        <a href="https://www.tumblr.com/reblog/190561299031/eqyny5BC"><li><span class="first-letter">F</span>un</li></a><a href="https://ithacuh.tumblr.com/post/190561299031/via"><li><span class="first-letter">P</span>ermalink</li></a><a target="_blank" href="https://t.umblr.com/redirect?z=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6wYaM4fje1JPp2WTjpaQEc%3Fsi%3DUqsZqYHeSfOtSqDnDid74w&amp;t=ZmNlNDgxZDc1NzliNjI0ZDQwNDA0YTY0YjczNmQ4ZTMwYTZlZmRjNywxOTA1NjEyOTkwMzE%3D&amp;b=t%3A9sKj-4Vu5loclqaVz7bvaA&amp;p=https%3A%2F%2Fithacuh.tumblr.com%2Fpost%2F190561299031%2Fvia&amp;m=0"><li><span class="first-letter">S</span>ource</li></a>
                     </ul>
                 </div>
-                
-                
-                
-                
-                <div class="media-container"><iframe class="spotify_audio_player" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A6wYaM4fje1JPp2WTjpaQEc%3Fsi%3DUqsZqYHeSfOtSqDnDid74w&amp;view=coverart" frameborder="0" allowtransparency="true" width="500" height="580"></iframe></div>
+
                 <div class="text-area has-caption has-tags">
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                        
-                        
+
         					<div class="post-section">
-            					<p>(via <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6wYaM4fje1JPp2WTjpaQEc%3Fsi%3DUqsZqYHeSfOtSqDnDid74w&amp;t=OWMwMzA2MDg3MmRhMTc5ZDUxNzc5YWU2Y2EwZDgxMzkyYTBiNWU5ZCxlcXlueTVCQw%3D%3D&amp;b=t%3A9sKj-4Vu5loclqaVz7bvaA&amp;p=https%3A%2F%2Fithacuh.tumblr.com%2Fpost%2F190561299031%2Fvia&amp;m=0" target="_blank">https://open.spotify.com/track/6wYaM4fje1JPp2WTjpaQEc?si=UqsZqYHeSfOtSqDnDid74w</a>) </p>
+            					<p> Paragraph in post-section class. </p>
         					</div>
     					
-					
-                    
-                    
-                    
-                    
-                        <p>
-                        
-                            <a class="tag" href="https://ithacuh.tumblr.com/tagged/goals">goals</a>&nbsp;
-                        
+                        <p>                        
+                            Paragraph in text-area-caption class.
                         </p>
                     
                 </div>
                 
                 <div class="status-bar">
                     <div class="grip"></div>
-                    <a href="https://ithacuh.tumblr.com/post/190561299031/via">Posted 6 days ago</a> - <a href="https://ithacuh.tumblr.com/post/190561299031/via">2 notes</a>
+                    <p>Date/Time: <span id="datetime"></span></p>
+                        <script>
+                            var dt = new Date();
+                            document.getElementById("datetime").innerHTML = 
+                            (("0" + (dt.getMonth() + 1)).slice(-2)) 
+                            + "/" 
+                            + (("0" + dt.getDate()).slice(-2)) + "/" 
+                            + (dt.getFullYear()) 
+                            + " " 
+                            + (("0" + dt.getHours() + 1).slice(-2)) 
+                            + ":" + (("0" + dt.getMinutes() + 1).slice(-2));
+</script>
                 </div>
                 
             </div>
