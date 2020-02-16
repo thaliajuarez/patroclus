@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #1F326C;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -54,9 +55,4 @@ ul.posts li {
 .background-center {
     background-position: center center;
     background-repeat: no-repeat;
-}
-body {
-    background-color: #1F326C;
-    width: 690px;
-    margin: 0 auto;
 }
