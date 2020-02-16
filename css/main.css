@@ -23,14 +23,16 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Georgia', 'Serif';
+    color: #ffffff;
 }
 h2, h3 {
     font-family:'Georgia', 'Serif';
+    color: #ffffff;
 }
 p, ul, ol, table {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #ffffff;
     font-family:'Georgia', 'Serif';
 }
 footer {
