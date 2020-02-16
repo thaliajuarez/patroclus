@@ -45,14 +45,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-/*style sheet from project\index.html*/
-
-.background-cover {
-    background-position: center center;
-    background-size: cover;
-}
-.background-center {
-    background-position: center center;
-    background-repeat: no-repeat;
-}
