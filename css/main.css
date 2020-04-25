@@ -30,13 +30,14 @@ h2, h3 {
     color: #ffffff;
 }
 p, ul, ol, table {
-    font-size: 1.5em;
+    font-size: 1.0em;
     line-height: 1.4em;
     color: #ffffff;
     font-family:'Georgia', 'Serif';
 }
 code {
     font-family: monospace;
+    font-size: 0.875em;
     color: rgb(0, 255, 64);
 }
 footer {
