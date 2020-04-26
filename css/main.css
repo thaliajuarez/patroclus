@@ -44,6 +44,7 @@ footer {
     border-top: 1px solid #ffffff;
     font-size: .6em;
     font-family:'Georgia', 'Serif';
+    position: fixed;
 }
 ul.posts { 
     margin: 20px auto 40px; 
