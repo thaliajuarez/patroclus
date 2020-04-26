@@ -52,7 +52,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.nav {
+nav {
     width: 160px;
     position: fixed;
     z-index: 1;
