@@ -72,10 +72,10 @@ ul.posts li {
     display: block;
 }
 .sidebar a.active {
-    color: white;
+    color: rgb(56, 81, 218);;
 }
 .sidenav a:hover:not(.active) {
-    color: rgb(56, 81, 218);
+    color: white;
 }
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-height: 450px) {
