@@ -71,15 +71,11 @@ ul.posts li {
     font-family:'Georgia', 'Serif';
     display: block;
 }
-.sidebar a.active {
+.sidebar a:hover {
     color: rgb(56, 81, 218);
-}
-.sidenav a:hover:not(.active) {
-    color: white;
 }
 .main {
     margin-left: 160px; /* Same as the width of the sidebar */
-    padding-left: 160px;
     padding: 0px 10px;
   }
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
