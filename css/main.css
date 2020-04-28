@@ -57,7 +57,7 @@ ul.posts li {
     margin: 0;
     padding: 0;
     height: 100%;
-    width: 160px;
+    width: 100px;
     position: fixed;
     background-color:rgb(0, 0, 0);
     overflow: auto;
@@ -75,7 +75,7 @@ ul.posts li {
     color: rgb(56, 81, 218);
 }
 div.content {
-      margin-left: 200px;
+      margin-left: 100px;
       padding: 1px 16px;
       height: 1000px;
       position:relative;
