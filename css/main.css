@@ -72,17 +72,10 @@ ul.posts li {
     display: block;
 }
 .sidebar a.active {
-    background-color: rgb(56, 81, 218);
     color: white;
 }
 .sidenav a:hover:not(.active) {
-    background-color: rgb(0, 0, 0);
     color: rgb(56, 81, 218);
-}
-div.container {
-    margin-left: 160px;
-    padding: 1px 16px;
-    height: 1000px;
 }
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-height: 450px) {
