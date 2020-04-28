@@ -44,7 +44,7 @@ footer {
     border-top: 1px solid #ffffff;
     font-size: .6em;
     font-family:'Georgia', 'Serif';
-    position: fixed;
+   /* position: fixed; */
 }
 ul.posts { 
     margin: 20px auto 40px; 
@@ -53,19 +53,17 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.sidenav {
+.sidebar {
+    margin: 0;
+    padding: 0;
     height: 100%;
     width: 160px;
     position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
     background-color:rgb(0, 0, 0);
-    overflow-x: hidden;
-    padding-top: 20px;
+    overflow: auto;
   }  
-.sidenav a {
-    padding: 6px 8px 6px 16px;
+.sidebar a {
+    padding: 16px;
     text-decoration: none;
     font-size: 1.0em;
     line-height: 1.4em;
@@ -73,15 +71,41 @@ ul.posts li {
     font-family:'Georgia', 'Serif';
     display: block;
 }
-.sidenav a:hover {
+.sidebar a.active {
+    background-color: rgb(56, 81, 218);
+    color: white;
+}
+.sidenav a:hover:not(.active) {
+    background-color: rgb(0, 0, 0);
     color: rgb(56, 81, 218);
+}
+div.container {
+    margin-left: 160px;
+    padding: 1px 16px;
+    height: 1000px;
 }
 .main {
     margin-left: 160px; /* Same as the width of the sidenav */
     font-size: 28px; /* Increased text to enable scrolling */
     padding: 0px 10px;
 }
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    .sidebar a {
+        float: left;
+        font-size: 18px;
+    }
+    div.container {margin-left: 0;}
 }
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  }
