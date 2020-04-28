@@ -84,11 +84,6 @@ div.container {
     padding: 1px 16px;
     height: 1000px;
 }
-.main {
-    margin-left: 160px; /* Same as the width of the sidenav */
-    font-size: 28px; /* Increased text to enable scrolling */
-    padding: 0px 10px;
-}
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-height: 450px) {
     .sidebar {
