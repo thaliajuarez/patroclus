@@ -78,7 +78,7 @@ ul.posts li {
     margin-left: 160px; /* Same as the width of the sidebar */
     padding: 0px 10px;
   }
-  div.content {
+  div.container {
       margin-left: 200px;
       padding: 1px 16px;
       height: 1000px;
@@ -95,7 +95,7 @@ ul.posts li {
         float: left;
         font-size: 18px;
     }
-    div.content {margin-left: 0;}
+    div.container {margin-left: 0;}
 }
 /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
 @media screen and (max-width: 400px) {
