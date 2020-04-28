@@ -82,6 +82,7 @@ ul.posts li {
       margin-left: 200px;
       padding: 1px 16px;
       height: 1000px;
+      position:relative;
   }
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-height: 450px) {
