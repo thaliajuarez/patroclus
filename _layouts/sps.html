@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SPS at UTRGV</title>
+    <title>{{ page.title }}</title>
+    <link rel="icon" type="image/ico" href="https://static.tumblr.com/5ioe7a0/1oxm1h9lx/avatar-state-01.png" />
+
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -13,9 +15,8 @@
       integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
       crossorigin="anonymous"
     />
-
     <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/sps.css" />
+    <link rel="stylesheet" href="/style.css" />
 
     <!-- import google fonts -->
     <link
@@ -25,27 +26,40 @@
 
     <!-- import the webpage's javascript file -->
     <script src="/script.js" defer></script>
+
   </head>
   <body class="container">
+
     <div class="row profile">
 
       <div class="col">
+
         <h1>
           @sps
         </h1>
+
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
           Numquam accusamus, ullam quaerat dolore tenetur laboriosam 
           in quis debitis quae labore quasi molestiae, suscipit vitae 
           et fugit! Officiis, iste autem! Voluptatem.
         </p>
+
         <button type="button" class="btn btn-primary">Follow</button>
+
       </div>
+
     </div>
+
+    {{ content }}
+
     <div class="grid">
+
       <div class="row">
    
       </div>
+
     </div>
+
   </body>
 </html>
