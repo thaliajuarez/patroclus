@@ -56,6 +56,33 @@ body {
       margin:50px 100px 50px 100px;
   }
   
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.auto-resize-portrait {
+    height: 80px;
+    width: 50px;
+}   
+
+.auto-resize-landscape {
+    height: 30px;
+    width: 80px;
+}   
+
+.auto-resize-square {
+    height: 75px;
+    width: 75px;
+}
+
+.auto-resize-big {
+    width:150px;
+    height:150px;
+}
+
   @media (max-width: 712px) {
     img {
       height:150px;
