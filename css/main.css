@@ -63,7 +63,7 @@ ul.posts li {
     overflow: auto;
   }  
 .sidebar a {
-    padding: 8px;
+    padding: 40px;
     text-decoration: none;
     font-size: 1.0em;
     line-height: 1.4em;
@@ -78,7 +78,6 @@ div.content {
       margin-left: 40px;
       padding: 1px 8px;
       height: 1000px;
-     /* position:relative; */
   }
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
 @media screen and (max-height: 450px) {
