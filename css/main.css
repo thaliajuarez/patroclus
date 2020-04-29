@@ -40,10 +40,32 @@ code {
     font-size: 0.875em;
     color: rgb(0, 255, 64);
 }
+img {
+    max-width:100%;
+    max-height:100%  
+}
+.auto-resize-portrait {
+    height: 80px;
+    width: 50px;
+}
+    
+.auto-resize-landscape {
+    height: 30px;
+    width: 80px;
+}
+    
+.auto-resize-square {
+    height: 75px;
+    width: 75px;
+}
+    
+.auto-resize-big {
+    width:150px;
+    height:150px;
+}
 footer {
     border-top: 1px solid #ffffff;
     font-size: .7em;
-    font-family:'Georgia', 'Serif';
 }
 ul.posts { 
     margin: 20px auto 40px; 
