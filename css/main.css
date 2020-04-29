@@ -57,13 +57,13 @@ ul.posts li {
     margin: 0;
     padding: 0;
     height: 100%;
-    width: 40px;
+    width: 80px;
     position: fixed;
     background-color:rgb(0, 0, 0);
     overflow: auto;
   }  
 .sidebar a {
-    padding: 40px;
+    padding: 16px;
     text-decoration: none;
     font-size: 1.0em;
     line-height: 1.4em;
@@ -75,8 +75,8 @@ ul.posts li {
     color: rgb(56, 81, 218);
 }
 div.content {
-      margin-left: 40px;
-      padding: 1px 8px;
+      margin-left: 80px;
+      padding: 1px 16px;
       height: 1000px;
   }
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
