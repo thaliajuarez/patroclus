@@ -1,4 +1,4 @@
 name: Course Notes
 markdown: kramdown
-permalink: /notes/:year/:month/:day/:title
+permalink: /notes/:month/:day/:year/:title
 
