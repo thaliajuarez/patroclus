@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Large Sparse Random Matrices of Network Models
+title: "MATH 4391: Introducing 'Large Sparse Random Matrices of Network Models' "
 ---
