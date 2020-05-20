@@ -8,6 +8,7 @@ title: "MATH 4391: Running the code"
 > ## More info on the code 
 > "Reduction of a vector" - means to take out the zeros
 > > Q: Vectors? Runtime? Recursion?
+>
 > Sparse storage and memory
 > Storing sparse symmetric matrices
 > Sparse array
