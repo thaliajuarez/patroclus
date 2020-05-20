@@ -21,6 +21,7 @@ title: "MATH 4391: Running the code"
 > 
 > NPshift
 >
+>
 > ## Using CUPy
 > CUPy easily throws out the zero entries with cupy.flatnonzero()
 > > Q: What is the run time for this?
@@ -46,6 +47,7 @@ title: "MATH 4391: Running the code"
 >
 > unsigned long int
 >
+>
 > ## More info on parallel computing
 > CUDA multithreading
 >
@@ -60,12 +62,14 @@ title: "MATH 4391: Running the code"
 >
 > Kernel functions - using C/C++
 > 
+>
 > ## Issues
 > GPU (Device) & CPU (Host)
 > > Sending things between the host and the device takes time and we want to keep it all in one place.
 >
 > Overflow errors when indices are very large (64 bit integers)
 > > Everything in 64 bit increases the storage needed
+>
 >
 ### Questions  ###
 > Defining a subroutine?
@@ -82,6 +86,7 @@ title: "MATH 4391: Running the code"
 > > Q: How do we continue using it? What are the alternatives? Consequences of each?
 >
 > Define the use of NPiter
+>
 >
 ### Further reading to-do  ###
 > <a href="https://pure.strath.ac.uk/ws/portalfiles/portal/7357442/fastbalance.pdf" target="_blank">Knight, Philip ; Ruiz, Daniel. / A fast algorithm for matrix balancing. In: IMA Journal of Numerical Analysis. 2013 ; Vol. 33, No. 3. pp. 1029-1047.</a>
@@ -101,6 +106,7 @@ title: "MATH 4391: Running the code"
 
 > <a href="https://code.google.com/archive/p/cusp-library/" target="_blank">cusp-library</a>
 > 
+>
 ### Emacs keyboard shortcuts   ###
 > <a href="http://www.rgrjr.com/emacs/emacs_cheat.html" target="_blank">Dave Cohen's emacs cheat sheet</a>
 >
