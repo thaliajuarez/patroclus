@@ -84,7 +84,7 @@ ul.posts li {
     margin: 0;
     padding: 0;
     height: 100%;
-    width: 130px;
+    width: 100px;
     position: fixed;
     background-color:rgb(0, 0, 0);
     overflow: auto;
