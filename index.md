@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/thaliajuarez/patroclus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Computer Science student (read: unemployed) from Texas. My interests lie in backend development and data analytics. If I am not working or doing homework, I am reading, figuratively flipping tables over political discourse, or playing games. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this page is to show you some of my personal projects. Thoughts and tech-related ramblings can be found [here].
 
-### Markdown
+### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Program developed by a team of students and faculty for a math research course and senior project. Continued project worked on by graduate mathematics students by translating Fortran to Python with some C++ kernel functions. The current senior project goal is to make the program run on multiple GPUs as efficiently as possible using hypothesis-driven development.
 
-```markdown
-Syntax highlighted code block
+### Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities
 
-# Header 1
-## Header 2
-### Header 3
+Data Science National Security Summer Camp hosted by the University of Texas at San Antonio, made possible with sponsorship from the Defense Intelligence Agency, used close mentoring by data scientists in the national security sector and experimental learning to facilitate the use of data analytics while role-playing positions analogous to intelligence analysts and solving real world problems using Tableau.
 
-- Bulleted
-- List
+### Association of Computing Machinery Member
 
-1. Numbered
-2. List
+Volunteered at local community events, including the local annual High School Programming Contest and the annual [HESTEC](https://www.utrgv.edu/hestec/) event. Attended hackathon events held at various universities for workshops and networking (CodeRED and HackTX).
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thaliajuarez/patroclus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Email me](mailto:thalikatjuarez@gmail.com)
