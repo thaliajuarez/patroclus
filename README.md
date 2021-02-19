@@ -1,1 +1,0 @@
-# thaliajuarez.github.io
