@@ -2,7 +2,7 @@
 
 I'm a Computer Science student (read: unemployed) from Texas. My interests lie in backend development and data analytics. If I am not working or doing homework, I am reading or playing games. 
 
-The purpose of this page is to show you some of my personal projects. Thoughts and tech-related ramblings can be found [here].
+Thoughts and tech-related ramblings can be found [here].
 
 ### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress
 
