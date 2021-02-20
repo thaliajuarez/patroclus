@@ -2,7 +2,7 @@
 
 I'm a Computer Science student (read: unemployed) from Texas. My interests lie in backend development and data analytics. If I am not working or doing homework, I am reading or playing games. 
 
-Thoughts and tech-related ramblings can be found [here](https://turingpt.wordpress.com/){:target="_blank"}.
+Thoughts and tech-related ramblings can be found <a href="https://turingpt.wordpress.com/" target="_blank">[here]</a>.
 
 ### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress
 
