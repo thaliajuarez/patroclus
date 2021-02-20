@@ -14,7 +14,7 @@ Thoughts and tech-related ramblings can be found <a href="https://turingpt.wordp
 
 ### Community Involvement
 
-* As an Association of Computing Machinery member at school, I volunteered at local community events, including the local annual High School Programming Contest and [HESTEC](https://www.utrgv.edu/hestec/){:target="_blank"}. For workshops and networking, I attended hackathon events held at various universities (CodeRED and HackTX).
+* As an Association of Computing Machinery member at school, I volunteered at local community events, including the local annual High School Programming Contest and <a href="https://www.utrgv.edu/hestec/" target="_blank">[HESTEC]</a>. For workshops and networking, I attended hackathon events held at various universities (CodeRED and HackTX).
 
 ### Contact
 
