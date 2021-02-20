@@ -1,20 +1,20 @@
 ## About
 
-I'm a Computer Science student (read: unemployed) from Texas. My interests lie in backend development and data analytics. If I am not working or doing homework, I am reading, figuratively flipping tables over political discourse, or playing games. 
+I'm a Computer Science student (read: unemployed) from Texas. My interests lie in backend development and data analytics. If I am not working or doing homework, I am reading or playing games. 
 
 The purpose of this page is to show you some of my personal projects. Thoughts and tech-related ramblings can be found [here].
 
-### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy
+### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress
 
-Program developed by a team of students and faculty for a math research course and senior project. Continued project worked on by graduate mathematics students by translating Fortran to Python with some C++ kernel functions. The current senior project goal is to make the program run on multiple GPUs as efficiently as possible using hypothesis-driven development.
+* Over the past year, I have contributed to a program developed by a team of UTRGV students and faculty for a math research course and senior project. Translating existing Fortran code to Python and C++ in parallel, compelled me to recruit a team of computer science students to continue the research. The current senior project goal is to make the program run on multiple GPUs as efficiently as possible.
 
-### Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities
+### Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities - Summer 2020
 
-Data Science National Security Summer Camp hosted by the University of Texas at San Antonio, made possible with sponsorship from the Defense Intelligence Agency, used close mentoring by data scientists in the national security sector and experimental learning to facilitate the use of data analytics while role-playing positions analogous to intelligence analysts and solving real world problems using Tableau.
+* Quarantine gave me the opportunity to virtually attend UTSA's Data Science National Security Summer Camp. This camp was made possible with sponsorship from the Defense Intelligence Agency. Using close mentoring by data scientists in the national security sector and experimental learning to facilitate the use of data analytics while role-playing positions analogous to intelligence analysts, my team and I presented a solution to a real-world problem using Tableau.
 
-### Association of Computing Machinery Member
+### Community Involvement
 
-Volunteered at local community events, including the local annual High School Programming Contest and the annual [HESTEC](https://www.utrgv.edu/hestec/) event. Attended hackathon events held at various universities for workshops and networking (CodeRED and HackTX).
+* As an Association of Computing Machinery member at school, I volunteered at local community events, including the local annual High School Programming Contest and [HESTEC](https://www.utrgv.edu/hestec/). For workshops and networking (CodeRED and HackTX), I attended hackathon events held at various universities.
 
 ### Contact
 
