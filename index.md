@@ -14,7 +14,7 @@ Thoughts and tech-related ramblings can be found [here].
 
 ### Community Involvement
 
-* As an Association of Computing Machinery member at school, I volunteered at local community events, including the local annual High School Programming Contest and [HESTEC](https://www.utrgv.edu/hestec/). For workshops and networking (CodeRED and HackTX), I attended hackathon events held at various universities.
+* As an Association of Computing Machinery member at school, I volunteered at local community events, including the local annual High School Programming Contest and [HESTEC](https://www.utrgv.edu/hestec/). For workshops and networking, I attended hackathon events held at various universities (CodeRED and HackTX).
 
 ### Contact
 
