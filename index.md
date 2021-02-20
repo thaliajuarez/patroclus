@@ -2,7 +2,7 @@
 
 I'm a Computer Science student (read: unemployed) from Texas. My interests lie in backend development and data analytics. If I am not working or doing homework, I am reading or playing games. 
 
-Thoughts and tech-related ramblings can be found [here](https://turingpt.wordpress.com/).
+Thoughts and tech-related ramblings can be found [here](https://turingpt.wordpress.com/){:target="_blank"}.
 
 ### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress
 
@@ -14,7 +14,7 @@ Thoughts and tech-related ramblings can be found [here](https://turingpt.wordpre
 
 ### Community Involvement
 
-* As an Association of Computing Machinery member at school, I volunteered at local community events, including the local annual High School Programming Contest and [HESTEC](https://www.utrgv.edu/hestec/). For workshops and networking, I attended hackathon events held at various universities (CodeRED and HackTX).
+* As an Association of Computing Machinery member at school, I volunteered at local community events, including the local annual High School Programming Contest and [HESTEC](https://www.utrgv.edu/hestec/){:target="_blank"}. For workshops and networking, I attended hackathon events held at various universities (CodeRED and HackTX).
 
 ### Contact
 
