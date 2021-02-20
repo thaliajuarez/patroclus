@@ -10,7 +10,7 @@ Thoughts and tech-related ramblings can be found <a href="https://turingpt.wordp
 
 ### Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities - Summer 2020
 
-* Quarantine gave me the opportunity to virtually attend UTSA's Data Science National Security Summer Camp. This camp was made possible with sponsorship from the Defense Intelligence Agency. Using close mentoring by data scientists in the national security sector and experimental learning to facilitate the use of data analytics while role-playing positions analogous to intelligence analysts, my team and I presented a solution to a real-world problem using Tableau.
+* Quarantine gave me the opportunity to virtually attend UTSA's Data Science National Security Summer Camp. This camp was made possible with sponsorship from the Defense Intelligence Agency. Using close mentoring by data scientists in the national security sector and experimental learning to facilitate the use of data analytics while role-playing positions analogous to intelligence analysts, my team and I presented our data-driven findings to a real-world problem using Tableau.
 
 ### Community Involvement
 
