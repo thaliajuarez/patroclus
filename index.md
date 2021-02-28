@@ -1,11 +1,11 @@
 ## About
 
-I'm a Computer Science student (read: unemployed) from Texas. My interests lie in backend development and data analytics. If I am not working or doing homework, I am reading or playing games. 
+I'm a Computer Science student from Texas. My interests lie in backend development and data analytics. If I am not working on a project or doing homework, I am reading or playing games. 
 
 
 ### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress
 
-* Over the past year, I have contributed to a program developed by a team of UTRGV students and faculty for a math research course and senior project. Translating existing Fortran code to Python and C++ in parallel, compelled me to recruit a team of computer science students to continue the research. The current senior project goal is to make the program run on multiple GPUs as efficiently as possible.
+* Over the past year, I have contributed to a program developed by a team of UTRGV students and faculty for a math research course and senior project. Translating existing Fortran code to Python and C++ in parallel compelled me to recruit a team of computer science students to continue the project. The current goal is to make the program run on multiple GPUs as efficiently as possible.
 
 ### Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities - Summer 2020
 
