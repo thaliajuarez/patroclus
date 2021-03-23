@@ -1,3 +1,7 @@
+---
+title: Resume
+---
+
 ### High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress
 
 * Over the past year, I have contributed to a program developed by a team of UTRGV students and faculty for a math research course and senior project. Translating existing Fortran code to Python and C++ in parallel compelled me to recruit a team of computer science students to continue the project. The current goal is to make the program run on multiple GPUs as efficiently as possible.
