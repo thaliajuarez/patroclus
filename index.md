@@ -4,8 +4,9 @@ title: Projects
 ---
 
 ## Hello! I'm Thalia - showcasing personal projects I have worked on as an undergraduate student.
-&nbsp;
+
 _________________
+
 &nbsp;
 ### **High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - Senior Project**
 
@@ -15,8 +16,8 @@ _________________
 
 Over the past year, I have contributed to a program developed by faculty members in UTRGV's math department. My role in the project was translating existing Fortran code to C++ and Python. Learning about parallel programming encouraged me to form a team of computer science students. We are currently co-advised by the math and computer science departments.
 
-&nbsp;
 _________________
+
 &nbsp;
 
 ### **Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities**
@@ -30,12 +31,10 @@ Quarantine gave me the opportunity to virtually attend UTSA's Data Science Natio
 
 * Click <a href="https://drive.google.com/file/d/1l5paDgV0XU5_QhhrN9EofznB8Jh2WaG8/view" target="_blank">here</a> for a pdf version of the final presentation.
 
-&nbsp;
 _________________
+
 &nbsp;
 
 ### **Community Involvement**
 
 * Association of Computing Machinery Student Member: I have volunteered at local community events, including the local annual High School Programming Contest and <a href="https://www.utrgv.edu/hestec/" target="_blank">HESTEC</a>. For workshops and networking, I attended hackathon events held at various universities (CodeRED and HackTX).
-
-&nbsp;
