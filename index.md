@@ -13,9 +13,9 @@ Over the past year, I have contributed to a program developed by faculty members
 
 ### **Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities - Summer 2020**
 
-![Sample2](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/aoe-crashes-map.png)
+![Sample2](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/aoe-crashes-map.PNG)
 
-![Sample3](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/aoe-heat-map.png)
+![Sample3](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/aoe-heat-map.PNG)
 
 Quarantine gave me the opportunity to virtually attend UTSA's Data Science National Security Summer Camp. This camp was made possible with sponsorship from the Defense Intelligence Agency. Using close mentoring by data scientists in the national security sector and experimental learning to facilitate the use of data analytics while role-playing positions analogous to intelligence analysts, my team and I presented our data-driven findings to a real-world problem using Tableau.
 
