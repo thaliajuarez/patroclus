@@ -23,14 +23,14 @@
 
 ### Customizing files in /_layouts folder.
 
-1. default.html
+- default.html
 
 ### Customizing files in /_includes folder.
 
-1. header.html
+- header.html
 
 ### Adding documents: using the /assets folder
-1. images
+- images
 
 ## References
 
