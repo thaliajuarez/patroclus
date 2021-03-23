@@ -11,14 +11,14 @@ _________________
 
 ### **High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - Senior Project**
 
-*The University of Texas at Rio Grande Valley Edinburg* | *Current*
+*The University of Texas at Rio Grande Valley Edinburg:* *Current*
 
 ![Sample1](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/capture-ern-data.png)
 
 Over the past year, I have contributed to a program developed by faculty members in UTRGV's math department. My role in the project was translating existing Fortran code to C++ and Python. Learning about parallel programming encouraged me to form a team of computer science students. We are currently co-advised by the math and computer science departments.
 
 ### **Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities**
-*The University of Texas at San Antonio* | *August 2020*
+*The University of Texas at San Antonio:* *August 2020*
 
 ![Sample2](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/aoe-crashes-map.PNG)
 
