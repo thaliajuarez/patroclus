@@ -3,13 +3,13 @@ layout: default
 title: Portfolio
 ---
 
-## Hello! I'm Thalia - showcasing personal projects I have worked on as an undergrad.
+## Hello! I'm Thalia - showcasing personal projects I have worked on as an undergraduate student.
 
 ### **High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress**
 
 ![Sample1](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/capture-ern-data.png)
 
-Over the past year, I have contributed to a program developed by faculty members in UTRGV's math department. My role in the project was translating existing Fortran code to C++ and Python. Working with parallel programming, learning about sparse storage, and working with GPU's encouraged me to collaborate with the computer science department.
+Over the past year, I have contributed to a program developed by faculty members in UTRGV's math department. My role in the project was translating existing Fortran code to C++ and Python. Learning about parallel programming encouraged me to collaborate with the computer science department. It is currently a senior project.
 
 ### **Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities - Summer 2020**
 
