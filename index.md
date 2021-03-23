@@ -5,7 +5,9 @@ title: Portfolio
 
 ## Hello! I'm Thalia - showcasing personal projects I have worked on as an undergraduate student.
 
+
 _________________
+
 
 ### **High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - Senior Project**
 
