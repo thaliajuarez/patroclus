@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Resume
 ---
 
 ## High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - In Progress
