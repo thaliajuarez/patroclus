@@ -6,7 +6,7 @@ title: Resume
 
 * Over the past year, I have contributed to a program developed by a team of UTRGV students and faculty for a math research course and senior project. Translating existing Fortran code to Python and C++ in parallel compelled me to recruit a team of computer science students to continue the project. The current goal is to make the program run on multiple GPUs as efficiently as possible.
 
-![Epidemic Results of Erdos-Renyi](https://github.com/thaliajuarez/resume/Capture-ERN-data.png?raw=true )
+![Epidemic Results of Erdos-Renyi](/assets/capture-ern-data.png?raw=true)
 
 ### Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities - Summer 2020
 
