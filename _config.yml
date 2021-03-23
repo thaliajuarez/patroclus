@@ -1,9 +1,12 @@
 theme: jekyll-theme-minimal
-title: Portfolio
+title: Resume
 author: Thalia Juarez
 email: thalia.juarez@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Data Analytics. Parallel Programming. Applied Statistics. Secure Software.
+  I’m a Computer Science student from Texas. I focus on improving existing software 
+  for ongoing research projects, data analytics, parallel programming, and exploring
+  new technologies. If I am not building something new or doing homework, I am reading 
+  or playing games.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
