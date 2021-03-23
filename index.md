@@ -9,7 +9,7 @@ _________________
 
 ### **High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - Senior Project**
 
-*The University of Texas at Rio Grande Valley (Edinburg)* | *June 2020 - Current*
+*The University of Texas at Rio Grande Valley - Edinburg* | *June 2020 - Current*
 
 ![Sample1](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/capture-ern-data.png)
 
