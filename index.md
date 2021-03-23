@@ -15,7 +15,7 @@ Over the past year, I have contributed to a program developed by faculty members
 
 * Quarantine gave me the opportunity to virtually attend UTSA's Data Science National Security Summer Camp. This camp was made possible with sponsorship from the Defense Intelligence Agency. Using close mentoring by data scientists in the national security sector and experimental learning to facilitate the use of data analytics while role-playing positions analogous to intelligence analysts, my team and I presented our data-driven findings to a real-world problem using Tableau.
 
-* Click [here](https://github.com/thaliajuarez/resume/raw/master/assets/Presentation%20for%20Debrief.pdf) for a pdf version of the final presentation.
+* Click [here](https://drive.google.com/file/d/1l5paDgV0XU5_QhhrN9EofznB8Jh2WaG8/view) for a pdf version of the final presentation.
 
 ### **Community Involvement**
 
