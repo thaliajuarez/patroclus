@@ -1,7 +1,6 @@
 # Projects:
 _________________
 
-&nbsp;
 ### [**High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - Senior Project**](csbn.md)
 
 *The University of Texas at Rio Grande Valley Edinburg: Current*
