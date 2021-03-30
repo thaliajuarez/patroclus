@@ -1,36 +1,6 @@
-# resume
-
-## Description
-
-:earth_americas: Hello! Here is a simple walk-through for setting up this site. I'm interested in learning about web development, so I am documenting the basics. The idea is to progress from a static site to a page with more functionality. 
+# resume :earth_americas:
 
 ## Using Github Pages + Jekyll Minima Theme
-
-### Add the necessary files.
-
-- README.md
-- _config.yml
-- index.md
-- LICENSE
-
-#### *Bonus:* Why the MIT License?
-
-
-### Add folders to customize the existing theme.
-
-- _includes
-- _layouts
-
-### Customizing files in /_layouts folder.
-
-- default.html
-
-### Customizing files in /_includes folder.
-
-- header.html
-
-### Adding documents: using the /assets folder
-- images
 
 ## References
 
