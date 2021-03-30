@@ -1,8 +1,4 @@
----
-title: Projects:
----
-
-## Hello, I'm Thalia!
+# Projects:
 
 _________________
 
