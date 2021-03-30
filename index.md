@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-## Hello! I'm Thalia - showcasing personal projects I have worked on as an undergraduate student.
+## Hello, I'm Thalia!
 
 _________________
 
