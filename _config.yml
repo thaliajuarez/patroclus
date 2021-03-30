@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
 author: Thalia Juarez
 email: thalia.juarez@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
