@@ -1,4 +1,4 @@
-# resume :earth_americas:
+# :earth_americas: resume
 
 ## Using Github Pages + Jekyll Minima Theme
 
