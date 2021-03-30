@@ -8,7 +8,7 @@ title: Projects
 _________________
 
 &nbsp;
-### **High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - Senior Project**
+### [**High Performance Computations for Random Network Models of Parental Vaccine Acceptance and Disease Spread using CuPy - Senior Project**](csbn.md)
 
 *The University of Texas at Rio Grande Valley Edinburg: Current*
 
@@ -18,7 +18,7 @@ _________________
 
 &nbsp;
 
-### **Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities**
+### [**Data Visualization & Intelligence Analysis of “San Valero” Traffic Fatalities**](data-science-camp.md)
 *The University of Texas at San Antonio: August 2020*
 
 ![Sample2](https://raw.githubusercontent.com/thaliajuarez/resume/master/assets/aoe-crashes-map.PNG)
